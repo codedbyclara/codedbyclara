@@ -83,4 +83,19 @@
     <circle cx="990" cy="270" r="2"/>
     <circle cx="330" cy="255" r="2"/>
   </g>
+
+     <text x="600" y="150"
+      text-anchor="middle"
+      font-family="monospace"
+      font-size="58"
+      font-weight="bold"
+      letter-spacing="3"
+      fill="#F5F3FF">codedbyclara</text>
+
+<text x="600" y="195"
+      text-anchor="middle"
+      font-family="monospace"
+      font-size="16"
+      letter-spacing="4"
+      fill="#A855F7">CYBERSECURITY • DEVELOPMENT</text>
 </svg>
