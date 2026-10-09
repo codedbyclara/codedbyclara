@@ -1,6 +1,8 @@
  <div align="center">
 
-<img src="./banner-aquarela.svg" width="100%" alt="Purple watercolor banner — codedbyclara" />
+<img src="https://raw.githubusercontent.com/codedbyclara/codedbyclara/main/banner-aquarela.svg?v=2"
+     width="100%"
+     alt="Purple watercolor banner — codedbyclara" />
 
 ### Desenvolvendo ideias. Explorando a segurança. 🔐
 
