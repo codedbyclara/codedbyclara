@@ -2,8 +2,6 @@
 
 <img src="./banner-aquarela.svg" width="100%" alt="Purple watercolor banner — codedbyclara" />
 
-# 💜 `codedbyclara`
-
 ### Desenvolvendo ideias. Explorando a segurança. 🔐
 
 `ADS Student` · `Developer in Progress` · `Cybersecurity Enthusiast`
